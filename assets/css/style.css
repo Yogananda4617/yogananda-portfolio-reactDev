@@ -634,7 +634,7 @@ main {
   margin-bottom: 7px;
   background-color: rgb(189, 162, 14);
   color: #000;
-  width: 320px;
+/*   width: 320px; */
   text-align: center;
   overflow-wrap: break-word;
 }
@@ -940,6 +940,9 @@ main {
   .blog-banner-box {
     height: auto;
   }
+  .timeline-item-title {
+    width: auto;
+  }
 }
 
 /**
@@ -1187,6 +1190,10 @@ main {
   .blog-content {
     padding: 25px;
   }
+  
+   .timeline-item-title {
+    width: auto;
+  }
 
   
 
@@ -1285,7 +1292,9 @@ main {
     grid-template-columns: 1fr 1fr;
   }
 
-  
+   .timeline-item-title {
+    width: 320px;
+  }
 }
 
 /**
@@ -1374,6 +1383,10 @@ main {
 
   .project-list {
     grid-template-columns: repeat(3, 1fr);
+  }
+	
+   .timeline-item-title {
+    width: 320px;
   }
 
  
@@ -1514,5 +1527,8 @@ main {
 
   .timeline-text {
     max-width: 700px;
+  }
+   .timeline-item-title {
+    width: 320px;
   }
 }
