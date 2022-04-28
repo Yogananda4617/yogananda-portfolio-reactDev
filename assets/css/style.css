@@ -636,6 +636,7 @@ main {
   color: #000;
   width: 320px;
   text-align: center;
+  overflow-wrap: break-word;
 }
 
 .timeline-list span {
