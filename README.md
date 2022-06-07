@@ -1,4 +1,4 @@
-watch live : https://yogananda4617.github.io/yogananda-portfolio-reactDev/
+watch live : https://yogananda-portfolio.netlify.app/
 
 
 project by Yogananda...
